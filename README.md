@@ -1,17 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=F7B700&width=435&lines=Hey%2C+I'am+Altan+Berk+Eren+%F0%9F%91%8B)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Altan+Berk+Eren;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/altanberkeren" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFD700" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/altanberkeren/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black&labelColor=FFD700" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/altanberk.eren.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-Facebook-FFD700?style=for-the-badge&logo=facebook&logoColor=black&labelColor=FFD700" alt="Facebook" />
   </a>
   <a href="https://www.youtube.com/@altanberkeren3871" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/-YouTube-FFD700?style=for-the-badge&logo=youtube&logoColor=black&labelColor=FFD700" alt="YouTube" />
   </a>
 </p>
 
