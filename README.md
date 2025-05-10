@@ -3,7 +3,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/altanberkeren/altanberkeren/main/knight.png" alt="Pixel Knight" width="150"/>
+</p>
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/altanberkeren" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFD700" />
