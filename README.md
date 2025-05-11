@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/altanberkeren" target="_blank">
+  <a href="https://www.linkedin.com/in/altan-berk-eren" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFD700" />
   </a>
   <a href="https://www.instagram.com/altanberkeren/" target="_blank">
