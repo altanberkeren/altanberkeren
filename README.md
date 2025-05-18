@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Altan+Berk+Eren;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
+---
+
+### About Me
+
+I proudly wear many hats — **developer**, **tester**, **software engineering student**, **gamer**, **cook**, **astronaut**, **pilot**, **dragon trainer**.  
+Currently focused on **C#**, **Databases**, and **IoT systems**
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/altan-berk-eren" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
@@ -29,9 +38,9 @@
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&margin-w=10&no-frame=true" />
-</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanberkeren&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</div>
+</p>
+
 
