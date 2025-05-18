@@ -4,7 +4,7 @@
 
 ---
 
-I proudly wear many hats — **developer**, **tester**, **software engineering student**, **gamer**, **cook**, **astronaut**, **pilot**, **dragon trainer**.  
+I am a **developer**, **tester**, **software engineering student**, **gamer**, **cook**, **astronaut**, **pilot**, **dragon trainer**.  
 Currently focused on **C#**, **Databases**, and **IoT systems**
 
 ---
