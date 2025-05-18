@@ -20,7 +20,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&no-frame=true&title=Repositories,Commits&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&no-frame=true&title=Repositories,Commits,Experience&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=altanberkeren&theme=github_dark" />
 </p>
 
 <p align="center">
