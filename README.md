@@ -19,15 +19,6 @@
 </p>
 
 ---
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&no-frame=true&margin-w=20&title=Repositories,Commits,Experience" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanberkeren&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/altanberkeren/altanberkeren/output/github-contribution-grid-snake.svg" alt="Snake animation light" />
@@ -37,3 +28,12 @@
   <img src="https://raw.githubusercontent.com/altanberkeren/altanberkeren/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation dark" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=altanberk&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&no-frame=true&margin-w=15&title=Followers,Stars,PullRequest,IssueResponder,Year" />
+</p>
