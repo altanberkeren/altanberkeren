@@ -8,7 +8,7 @@ I am a **developer**, **tester**, **software engineering student**, **gamer**, *
 Currently focused on **C#**, **Databases**, and **IoT systems**
 
 ---
-
+Here are my social media accounts. Feel free to check them out.
 <p align="center">
   <a href="https://www.linkedin.com/in/altan-berk-eren" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
