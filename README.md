@@ -3,10 +3,10 @@
 </p>
 
 ---
-
-I am a **developer**, **tester**, **software engineering student**, **gamer**, **cook**, **astronaut**, **pilot**, **dragon trainer**.  
-Currently focused on **C#**, **Databases**, and **IoT systems**
-
+<p align="center">
+  I am a **developer**, **tester**, **software engineering student**, **gamer**, **cook**, **astronaut**, **pilot**, **dragon trainer**.  
+  Currently focused on **C#**, **Databases**, and **IoT systems**
+</p>
 ---
 
 <p align="center">
