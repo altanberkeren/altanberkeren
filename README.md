@@ -19,6 +19,23 @@
 
 ---
 
+<!-- Trophy Section (Perfectly Centered) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&no-frame=true&margin-w=20&title=Repositories,Commits,Experience" />
+</div>
+
+<!-- Radar Activity Chart -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=altanberkeren&theme=github_dark" />
+</p>
+
+<!-- Most Used Languages Chart -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanberkeren&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&no-frame=true&title=Repositories,Commits,Experience&margin-w=10" />
 </p>
