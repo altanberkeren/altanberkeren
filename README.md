@@ -4,29 +4,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/altan-berk-eren" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/altanberkeren/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" height="40" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/altanberk.eren.7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" width="40" height="40" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" width="32" height="32" alt="Facebook" />
   </a>
   <a href="https://www.youtube.com/@altanberkeren3871" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/youtube.svg" width="40" height="40" alt="YouTube" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=gruvbox&no-frame=true&title=Repositories,Commits&margin-w=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altanberkeren&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=altanberkeren&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altanberkeren&show_icons=true&theme=tokyonight&hide=stars,prs,issues&rank_icon=percentile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanberkeren&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
