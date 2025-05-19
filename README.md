@@ -9,7 +9,7 @@
 <p align="center">
   I am a <strong>developer</strong>, <strong>tester</strong>, <strong>software engineering student</strong>, 
   <strong>gamer</strong>, <strong>cook</strong>, <strong>astronaut</strong>, 
-  <strong>pilot</strong>, and <strong>dragon trainer</strong>.<br>
+  <strong>pilot</strong>, <strong>dragon trainer</strong>.<br>
   Currently focused on <strong>C#</strong>, <strong>Databases</strong>, and <strong>IoT systems</strong>.
 </p>
 
