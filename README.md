@@ -59,7 +59,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altanberkeren&label=Profile%20views&color=F7D300&style=flat" alt="Profile views" />
-</p>
