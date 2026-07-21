@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -47,22 +47,6 @@
   <a href="https://www.youtube.com/@altanberkeren3871" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
-</p>
-
----
-
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=altanberkeren&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanberkeren&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=altanberkeren&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 ---
