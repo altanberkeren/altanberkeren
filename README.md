@@ -7,10 +7,26 @@
 ---
 
 <p align="center">
-  I am a <strong>developer</strong>, <strong>tester</strong>, <strong>software engineering student</strong>, 
+  I am a <strong>developer</strong>, <strong>tester</strong>, <strong>software engineer</strong>, 
   <strong>gamer</strong>, <strong>cook</strong>, <strong>astronaut</strong>, 
   <strong>pilot</strong>, <strong>dragon trainer</strong>.<br>
-  Currently focused on <strong>C#</strong>, <strong>DBMS</strong>, and <strong>IoT</strong>.
+  Currently focused on <strong>C++</strong>, <strong>Computer Vision</strong>, and <strong>IoT</strong>.
+</p>
+
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
@@ -35,10 +51,25 @@
 
 ---
 
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=altanberkeren&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanberkeren&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=altanberkeren&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=altanberkeren&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/altanberkeren/altanberkeren/output/github-contribution-grid-snake.svg" alt="Snake animation light" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/altanberkeren/altanberkeren/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation dark" />
 </p>
@@ -46,7 +77,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altanberkeren&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=altanberkeren&label=Profile%20views&color=F7D300&style=flat" alt="Profile views" />
 </p>
-
-
